@@ -1,0 +1,8 @@
+@startuml Hello world
+skinparam Style strictuml
+skinparam SequenceMessageAlignment ceneter
+A -> B : Hello
+A <- B : Hi
+@enduml
+
+
